@@ -2,9 +2,11 @@
 
 The aim of this project is to recode the function printf defined in stdio.h
 
-Biggest challenges i've found doing this project were to understand and implement width and precison on the different flags used.
+Biggest challenges i've found doing this project were to understand and implement width and precison on the different conversions used.
 
-Since each different conversion has their own specification on how width and precision is handled lots of time were spent reading microsoft documentation on printf and testing various outputs on the original function.
+Since each different conversion has their own specification on how width and precision is handled.
+
+Lots of time was spent reading microsoft documentation on printf and testing various outputs on the original function.
 
 All code is written in accordance to the norminette version running at the time of project completion.
 
